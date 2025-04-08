@@ -1,6 +1,6 @@
 import * as React from "react"
 import { Link } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
+import { StaticImage } from "Run down hut vision best"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
